@@ -5,9 +5,8 @@ metadata:
   name: backstagetry
   annotations:
     github.com/project-slug: ealparslan/backstagetry
-    jenkins.io/github-folder: APPF/APPF-plan-service
-    docu: https://wiki.ehealthinsurance.com/display/BEAS/Architecture+Design+for+Notification+Service
 spec:
   type: service
   lifecycle: production
   owner: team-a
+  docu: https://wiki.ehealthinsurance.com/display/BEAS/Architecture+Design+for+Notification+Service
