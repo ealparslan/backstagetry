@@ -5,6 +5,7 @@ metadata:
   name: backstagetry
   annotations:
     github.com/project-slug: ealparslan/backstagetry
+    jenkins.io/github-folder: APPF/APPF-plan-service
 spec:
   type: service
   lifecycle: production
