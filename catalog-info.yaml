@@ -9,4 +9,4 @@ spec:
   type: service
   lifecycle: production
   owner: team-a
-  docu: https://wiki.ehealthinsurance.com/display/BEAS/Architecture+Design+for+Notification+Service?
+  docu: https://wiki.ehealthinsurance.com/display/BEAS/Architecture+Design+for+Notification+Service
